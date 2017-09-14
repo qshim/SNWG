@@ -2,7 +2,7 @@
 layout: post
 author: Me, Myself & I
 title: Q
-thumbnail: ../4.png
+thumbnail: 4.png
 week-assignment: 2
 ---
 
